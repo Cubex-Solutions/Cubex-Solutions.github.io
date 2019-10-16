@@ -1,0 +1,8 @@
+title: Cubex Solutions
+description: grow massive, swiftly
+google_analytics: UA-33516557-4
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
